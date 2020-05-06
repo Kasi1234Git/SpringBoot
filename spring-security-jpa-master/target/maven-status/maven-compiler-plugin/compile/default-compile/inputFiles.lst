@@ -1,0 +1,10 @@
+E:\SpringBootMicroservices\spring-security-jpa-master\src\main\java\com\javatechie\spring\security\api\repository\RoleRepository.java
+E:\SpringBootMicroservices\spring-security-jpa-master\src\main\java\com\javatechie\spring\security\api\repository\UserRepository.java
+E:\SpringBootMicroservices\spring-security-jpa-master\src\main\java\com\javatechie\spring\security\api\config\SecurityConfig.java
+E:\SpringBootMicroservices\spring-security-jpa-master\src\main\java\com\javatechie\spring\security\api\service\CustomUserDetailsService.java
+E:\SpringBootMicroservices\spring-security-jpa-master\src\main\java\com\javatechie\spring\security\api\model\User.java
+E:\SpringBootMicroservices\spring-security-jpa-master\src\main\java\com\javatechie\spring\security\api\controller\ApplicationController.java
+E:\SpringBootMicroservices\spring-security-jpa-master\src\main\java\com\javatechie\spring\security\api\model\Role.java
+E:\SpringBootMicroservices\spring-security-jpa-master\src\main\java\com\javatechie\spring\security\api\service\CustomUserDetails.java
+E:\SpringBootMicroservices\spring-security-jpa-master\src\main\java\com\javatechie\spring\security\api\controller\AdminController.java
+E:\SpringBootMicroservices\spring-security-jpa-master\src\main\java\com\javatechie\spring\security\api\SpringSecurityJpaApplication.java

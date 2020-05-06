@@ -1,0 +1,10 @@
+com\javatechie\spring\security\api\model\Role.class
+com\javatechie\spring\security\api\model\User.class
+com\javatechie\spring\security\api\controller\ApplicationController.class
+com\javatechie\spring\security\api\repository\UserRepository.class
+com\javatechie\spring\security\api\repository\RoleRepository.class
+com\javatechie\spring\security\api\service\CustomUserDetailsService.class
+com\javatechie\spring\security\api\service\CustomUserDetails.class
+com\javatechie\spring\security\api\SpringSecurityJpaApplication.class
+com\javatechie\spring\security\api\config\SecurityConfig.class
+com\javatechie\spring\security\api\controller\AdminController.class
